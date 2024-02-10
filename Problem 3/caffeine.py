@@ -1,3 +1,7 @@
+"""
+Name: Henry Holman
+Lab Time: Thursday @ 2pm
+"""
 
 def caffeine():
     caffeine_mg = float(input())

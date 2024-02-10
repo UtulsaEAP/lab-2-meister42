@@ -1,3 +1,8 @@
+"""
+Name: Henry Holman
+Lab Time: Thursday @ 2pm
+"""
+
 def telephone():
     phone_number = int(input())
     ''' Type your code here. '''
